@@ -37,3 +37,9 @@ jobs:
 
     - name: Run unit tests
       run: ./gradlew test
+
+    - name: Upload Test Result as Artifact
+      uses: actions/upload-artifact@v3
+      with:
+        name: test-result
+        path: app/build/reports/tests/test
