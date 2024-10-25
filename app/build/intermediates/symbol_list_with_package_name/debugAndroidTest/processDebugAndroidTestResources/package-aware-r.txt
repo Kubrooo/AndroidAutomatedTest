@@ -1,0 +1,3 @@
+com.example.androidautomatedtesting.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

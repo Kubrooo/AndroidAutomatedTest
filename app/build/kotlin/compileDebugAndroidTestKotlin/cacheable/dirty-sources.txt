@@ -1,0 +1,2 @@
+C:\Users\Zyrex\AndroidStudioProjects\AndroidAutomatedTesting\app\src\androidTest\java\com\example\androidautomatedtesting\CounterActivityTest.kt
+C:\Users\Zyrex\AndroidStudioProjects\AndroidAutomatedTesting\app\src\androidTest\java\com\example\androidautomatedtesting\ExampleInstrumentedTest.kt

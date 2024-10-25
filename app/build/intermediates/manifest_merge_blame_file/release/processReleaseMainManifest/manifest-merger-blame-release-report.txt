@@ -1,0 +1,223 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.androidautomatedtesting"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+9        android:targetSdkVersion="34" />
+10
+11    <uses-permission android:name="android.permission.REORDER_TASKS" />
+11-->[androidx.test:core:1.6.1] C:\Users\Zyrex\.gradle\caches\transforms-4\daf1b4a0e5e63f8d90788d8320968934\transformed\core-1.6.1\AndroidManifest.xml:24:5-72
+11-->[androidx.test:core:1.6.1] C:\Users\Zyrex\.gradle\caches\transforms-4\daf1b4a0e5e63f8d90788d8320968934\transformed\core-1.6.1\AndroidManifest.xml:24:22-69
+12
+13    <permission
+13-->[androidx.core:core:1.13.1] C:\Users\Zyrex\.gradle\caches\transforms-4\dcc474e449d2de593ba8935e36f7dbad\transformed\core-1.13.1\AndroidManifest.xml:22:5-24:47
+14        android:name="com.example.androidautomatedtesting.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+14-->[androidx.core:core:1.13.1] C:\Users\Zyrex\.gradle\caches\transforms-4\dcc474e449d2de593ba8935e36f7dbad\transformed\core-1.13.1\AndroidManifest.xml:23:9-81
+15        android:protectionLevel="signature" />
+15-->[androidx.core:core:1.13.1] C:\Users\Zyrex\.gradle\caches\transforms-4\dcc474e449d2de593ba8935e36f7dbad\transformed\core-1.13.1\AndroidManifest.xml:24:9-44
+16
+17    <uses-permission android:name="com.example.androidautomatedtesting.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+17-->[androidx.core:core:1.13.1] C:\Users\Zyrex\.gradle\caches\transforms-4\dcc474e449d2de593ba8935e36f7dbad\transformed\core-1.13.1\AndroidManifest.xml:26:5-97
+17-->[androidx.core:core:1.13.1] C:\Users\Zyrex\.gradle\caches\transforms-4\dcc474e449d2de593ba8935e36f7dbad\transformed\core-1.13.1\AndroidManifest.xml:26:22-94
+18
+19    <queries>
+19-->[com.google.ar:core:1.45.0] C:\Users\Zyrex\.gradle\caches\transforms-4\f50313d6f1106d532e267727dc362f14\transformed\core-1.45.0\AndroidManifest.xml:20:5-27:15
+20        <package android:name="com.google.ar.core" />
+20-->[com.google.ar:core:1.45.0] C:\Users\Zyrex\.gradle\caches\transforms-4\f50313d6f1106d532e267727dc362f14\transformed\core-1.45.0\AndroidManifest.xml:21:9-54
+20-->[com.google.ar:core:1.45.0] C:\Users\Zyrex\.gradle\caches\transforms-4\f50313d6f1106d532e267727dc362f14\transformed\core-1.45.0\AndroidManifest.xml:21:18-51
+21        <package android:name="com.android.vending" />
+21-->[com.google.ar:core:1.45.0] C:\Users\Zyrex\.gradle\caches\transforms-4\f50313d6f1106d532e267727dc362f14\transformed\core-1.45.0\AndroidManifest.xml:22:9-55
+21-->[com.google.ar:core:1.45.0] C:\Users\Zyrex\.gradle\caches\transforms-4\f50313d6f1106d532e267727dc362f14\transformed\core-1.45.0\AndroidManifest.xml:22:18-52
+22
+23        <intent>
+23-->[com.google.ar:core:1.45.0] C:\Users\Zyrex\.gradle\caches\transforms-4\f50313d6f1106d532e267727dc362f14\transformed\core-1.45.0\AndroidManifest.xml:24:9-26:18
+24            <action android:name="com.google.android.play.core.install.BIND_INSTALL_SERVICE" />
+24-->[com.google.ar:core:1.45.0] C:\Users\Zyrex\.gradle\caches\transforms-4\f50313d6f1106d532e267727dc362f14\transformed\core-1.45.0\AndroidManifest.xml:25:13-96
+24-->[com.google.ar:core:1.45.0] C:\Users\Zyrex\.gradle\caches\transforms-4\f50313d6f1106d532e267727dc362f14\transformed\core-1.45.0\AndroidManifest.xml:25:21-93
+25        </intent>
+26    </queries>
+27
+28    <application
+28-->C:\Users\Zyrex\AndroidStudioProjects\AndroidAutomatedTesting\app\src\main\AndroidManifest.xml:5:5-27:19
+29        android:allowBackup="true"
+29-->C:\Users\Zyrex\AndroidStudioProjects\AndroidAutomatedTesting\app\src\main\AndroidManifest.xml:6:9-35
+30        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+30-->[androidx.core:core:1.13.1] C:\Users\Zyrex\.gradle\caches\transforms-4\dcc474e449d2de593ba8935e36f7dbad\transformed\core-1.13.1\AndroidManifest.xml:28:18-86
+31        android:dataExtractionRules="@xml/data_extraction_rules"
+31-->C:\Users\Zyrex\AndroidStudioProjects\AndroidAutomatedTesting\app\src\main\AndroidManifest.xml:7:9-65
+32        android:extractNativeLibs="false"
+33        android:fullBackupContent="@xml/backup_rules"
+33-->C:\Users\Zyrex\AndroidStudioProjects\AndroidAutomatedTesting\app\src\main\AndroidManifest.xml:8:9-54
+34        android:icon="@mipmap/ic_launcher"
+34-->C:\Users\Zyrex\AndroidStudioProjects\AndroidAutomatedTesting\app\src\main\AndroidManifest.xml:9:9-43
+35        android:label="@string/app_name"
+35-->C:\Users\Zyrex\AndroidStudioProjects\AndroidAutomatedTesting\app\src\main\AndroidManifest.xml:10:9-41
+36        android:roundIcon="@mipmap/ic_launcher_round"
+36-->C:\Users\Zyrex\AndroidStudioProjects\AndroidAutomatedTesting\app\src\main\AndroidManifest.xml:11:9-54
+37        android:supportsRtl="true"
+37-->C:\Users\Zyrex\AndroidStudioProjects\AndroidAutomatedTesting\app\src\main\AndroidManifest.xml:12:9-35
+38        android:theme="@style/Theme.AndroidAutomatedTesting" >
+38-->C:\Users\Zyrex\AndroidStudioProjects\AndroidAutomatedTesting\app\src\main\AndroidManifest.xml:13:9-61
+39        <activity
+39-->C:\Users\Zyrex\AndroidStudioProjects\AndroidAutomatedTesting\app\src\main\AndroidManifest.xml:15:9-17:40
+40            android:name="com.example.androidautomatedtesting.AboutActivity"
+40-->C:\Users\Zyrex\AndroidStudioProjects\AndroidAutomatedTesting\app\src\main\AndroidManifest.xml:16:13-42
+41            android:exported="false" />
+41-->C:\Users\Zyrex\AndroidStudioProjects\AndroidAutomatedTesting\app\src\main\AndroidManifest.xml:17:13-37
+42        <activity
+42-->C:\Users\Zyrex\AndroidStudioProjects\AndroidAutomatedTesting\app\src\main\AndroidManifest.xml:18:9-26:20
+43            android:name="com.example.androidautomatedtesting.CounterActivity"
+43-->C:\Users\Zyrex\AndroidStudioProjects\AndroidAutomatedTesting\app\src\main\AndroidManifest.xml:19:13-44
+44            android:exported="true" >
+44-->C:\Users\Zyrex\AndroidStudioProjects\AndroidAutomatedTesting\app\src\main\AndroidManifest.xml:20:13-36
+45            <intent-filter>
+45-->C:\Users\Zyrex\AndroidStudioProjects\AndroidAutomatedTesting\app\src\main\AndroidManifest.xml:21:13-25:29
+46                <action android:name="android.intent.action.MAIN" />
+46-->C:\Users\Zyrex\AndroidStudioProjects\AndroidAutomatedTesting\app\src\main\AndroidManifest.xml:22:17-69
+46-->C:\Users\Zyrex\AndroidStudioProjects\AndroidAutomatedTesting\app\src\main\AndroidManifest.xml:22:25-66
+47
+48                <category android:name="android.intent.category.LAUNCHER" />
+48-->C:\Users\Zyrex\AndroidStudioProjects\AndroidAutomatedTesting\app\src\main\AndroidManifest.xml:24:17-77
+48-->C:\Users\Zyrex\AndroidStudioProjects\AndroidAutomatedTesting\app\src\main\AndroidManifest.xml:24:27-74
+49            </intent-filter>
+50        </activity>
+51        <activity
+51-->[androidx.test:core:1.6.1] C:\Users\Zyrex\.gradle\caches\transforms-4\daf1b4a0e5e63f8d90788d8320968934\transformed\core-1.6.1\AndroidManifest.xml:27:9-34:20
+52            android:name="androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity"
+52-->[androidx.test:core:1.6.1] C:\Users\Zyrex\.gradle\caches\transforms-4\daf1b4a0e5e63f8d90788d8320968934\transformed\core-1.6.1\AndroidManifest.xml:28:13-99
+53            android:exported="true"
+53-->[androidx.test:core:1.6.1] C:\Users\Zyrex\.gradle\caches\transforms-4\daf1b4a0e5e63f8d90788d8320968934\transformed\core-1.6.1\AndroidManifest.xml:29:13-36
+54            android:theme="@style/WhiteBackgroundTheme" >
+54-->[androidx.test:core:1.6.1] C:\Users\Zyrex\.gradle\caches\transforms-4\daf1b4a0e5e63f8d90788d8320968934\transformed\core-1.6.1\AndroidManifest.xml:30:13-56
+55            <intent-filter android:priority="-100" >
+55-->[androidx.test:core:1.6.1] C:\Users\Zyrex\.gradle\caches\transforms-4\daf1b4a0e5e63f8d90788d8320968934\transformed\core-1.6.1\AndroidManifest.xml:31:13-33:29
+55-->[androidx.test:core:1.6.1] C:\Users\Zyrex\.gradle\caches\transforms-4\daf1b4a0e5e63f8d90788d8320968934\transformed\core-1.6.1\AndroidManifest.xml:31:28-51
+56                <category android:name="android.intent.category.LAUNCHER" />
+56-->C:\Users\Zyrex\AndroidStudioProjects\AndroidAutomatedTesting\app\src\main\AndroidManifest.xml:24:17-77
+56-->C:\Users\Zyrex\AndroidStudioProjects\AndroidAutomatedTesting\app\src\main\AndroidManifest.xml:24:27-74
+57            </intent-filter>
+58        </activity>
+59        <activity
+59-->[androidx.test:core:1.6.1] C:\Users\Zyrex\.gradle\caches\transforms-4\daf1b4a0e5e63f8d90788d8320968934\transformed\core-1.6.1\AndroidManifest.xml:35:9-42:20
+60            android:name="androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity"
+60-->[androidx.test:core:1.6.1] C:\Users\Zyrex\.gradle\caches\transforms-4\daf1b4a0e5e63f8d90788d8320968934\transformed\core-1.6.1\AndroidManifest.xml:36:13-95
+61            android:exported="true"
+61-->[androidx.test:core:1.6.1] C:\Users\Zyrex\.gradle\caches\transforms-4\daf1b4a0e5e63f8d90788d8320968934\transformed\core-1.6.1\AndroidManifest.xml:37:13-36
+62            android:theme="@style/WhiteBackgroundTheme" >
+62-->[androidx.test:core:1.6.1] C:\Users\Zyrex\.gradle\caches\transforms-4\daf1b4a0e5e63f8d90788d8320968934\transformed\core-1.6.1\AndroidManifest.xml:38:13-56
+63            <intent-filter android:priority="-100" >
+63-->[androidx.test:core:1.6.1] C:\Users\Zyrex\.gradle\caches\transforms-4\daf1b4a0e5e63f8d90788d8320968934\transformed\core-1.6.1\AndroidManifest.xml:31:13-33:29
+63-->[androidx.test:core:1.6.1] C:\Users\Zyrex\.gradle\caches\transforms-4\daf1b4a0e5e63f8d90788d8320968934\transformed\core-1.6.1\AndroidManifest.xml:31:28-51
+64                <category android:name="android.intent.category.LAUNCHER" />
+64-->C:\Users\Zyrex\AndroidStudioProjects\AndroidAutomatedTesting\app\src\main\AndroidManifest.xml:24:17-77
+64-->C:\Users\Zyrex\AndroidStudioProjects\AndroidAutomatedTesting\app\src\main\AndroidManifest.xml:24:27-74
+65            </intent-filter>
+66        </activity>
+67        <activity
+67-->[androidx.test:core:1.6.1] C:\Users\Zyrex\.gradle\caches\transforms-4\daf1b4a0e5e63f8d90788d8320968934\transformed\core-1.6.1\AndroidManifest.xml:43:9-50:20
+68            android:name="androidx.test.core.app.InstrumentationActivityInvoker$EmptyFloatingActivity"
+68-->[androidx.test:core:1.6.1] C:\Users\Zyrex\.gradle\caches\transforms-4\daf1b4a0e5e63f8d90788d8320968934\transformed\core-1.6.1\AndroidManifest.xml:44:13-103
+69            android:exported="true"
+69-->[androidx.test:core:1.6.1] C:\Users\Zyrex\.gradle\caches\transforms-4\daf1b4a0e5e63f8d90788d8320968934\transformed\core-1.6.1\AndroidManifest.xml:45:13-36
+70            android:theme="@style/WhiteBackgroundDialogTheme" >
+70-->[androidx.test:core:1.6.1] C:\Users\Zyrex\.gradle\caches\transforms-4\daf1b4a0e5e63f8d90788d8320968934\transformed\core-1.6.1\AndroidManifest.xml:46:13-62
+71            <intent-filter android:priority="-100" >
+71-->[androidx.test:core:1.6.1] C:\Users\Zyrex\.gradle\caches\transforms-4\daf1b4a0e5e63f8d90788d8320968934\transformed\core-1.6.1\AndroidManifest.xml:31:13-33:29
+71-->[androidx.test:core:1.6.1] C:\Users\Zyrex\.gradle\caches\transforms-4\daf1b4a0e5e63f8d90788d8320968934\transformed\core-1.6.1\AndroidManifest.xml:31:28-51
+72                <category android:name="android.intent.category.LAUNCHER" />
+72-->C:\Users\Zyrex\AndroidStudioProjects\AndroidAutomatedTesting\app\src\main\AndroidManifest.xml:24:17-77
+72-->C:\Users\Zyrex\AndroidStudioProjects\AndroidAutomatedTesting\app\src\main\AndroidManifest.xml:24:27-74
+73            </intent-filter>
+74        </activity>
+75
+76        <provider
+76-->[androidx.emoji2:emoji2:1.3.0] C:\Users\Zyrex\.gradle\caches\transforms-4\50029648b0a15ec4f136ff2eef6eefb0\transformed\emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
+77            android:name="androidx.startup.InitializationProvider"
+77-->[androidx.emoji2:emoji2:1.3.0] C:\Users\Zyrex\.gradle\caches\transforms-4\50029648b0a15ec4f136ff2eef6eefb0\transformed\emoji2-1.3.0\AndroidManifest.xml:25:13-67
+78            android:authorities="com.example.androidautomatedtesting.androidx-startup"
+78-->[androidx.emoji2:emoji2:1.3.0] C:\Users\Zyrex\.gradle\caches\transforms-4\50029648b0a15ec4f136ff2eef6eefb0\transformed\emoji2-1.3.0\AndroidManifest.xml:26:13-68
+79            android:exported="false" >
+79-->[androidx.emoji2:emoji2:1.3.0] C:\Users\Zyrex\.gradle\caches\transforms-4\50029648b0a15ec4f136ff2eef6eefb0\transformed\emoji2-1.3.0\AndroidManifest.xml:27:13-37
+80            <meta-data
+80-->[androidx.emoji2:emoji2:1.3.0] C:\Users\Zyrex\.gradle\caches\transforms-4\50029648b0a15ec4f136ff2eef6eefb0\transformed\emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
+81                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+81-->[androidx.emoji2:emoji2:1.3.0] C:\Users\Zyrex\.gradle\caches\transforms-4\50029648b0a15ec4f136ff2eef6eefb0\transformed\emoji2-1.3.0\AndroidManifest.xml:30:17-75
+82                android:value="androidx.startup" />
+82-->[androidx.emoji2:emoji2:1.3.0] C:\Users\Zyrex\.gradle\caches\transforms-4\50029648b0a15ec4f136ff2eef6eefb0\transformed\emoji2-1.3.0\AndroidManifest.xml:31:17-49
+83            <meta-data
+83-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Zyrex\.gradle\caches\transforms-4\b73e26a0315a03163bc1cc3cd7f42903\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:29:13-31:52
+84                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+84-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Zyrex\.gradle\caches\transforms-4\b73e26a0315a03163bc1cc3cd7f42903\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:30:17-78
+85                android:value="androidx.startup" />
+85-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Zyrex\.gradle\caches\transforms-4\b73e26a0315a03163bc1cc3cd7f42903\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:31:17-49
+86            <meta-data
+86-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Zyrex\.gradle\caches\transforms-4\9f2f192deecd804d602b55e6c902c122\transformed\profileinstaller-1.3.1\AndroidManifest.xml:29:13-31:52
+87                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+87-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Zyrex\.gradle\caches\transforms-4\9f2f192deecd804d602b55e6c902c122\transformed\profileinstaller-1.3.1\AndroidManifest.xml:30:17-85
+88                android:value="androidx.startup" />
+88-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Zyrex\.gradle\caches\transforms-4\9f2f192deecd804d602b55e6c902c122\transformed\profileinstaller-1.3.1\AndroidManifest.xml:31:17-49
+89        </provider> <!-- The minimal version code of ARCore APK required for an app using this SDK. -->
+90        <meta-data
+90-->[com.google.ar:core:1.45.0] C:\Users\Zyrex\.gradle\caches\transforms-4\f50313d6f1106d532e267727dc362f14\transformed\core-1.45.0\AndroidManifest.xml:32:9-34:41
+91            android:name="com.google.ar.core.min_apk_version"
+91-->[com.google.ar:core:1.45.0] C:\Users\Zyrex\.gradle\caches\transforms-4\f50313d6f1106d532e267727dc362f14\transformed\core-1.45.0\AndroidManifest.xml:33:13-62
+92            android:value="241930000" /> <!-- This activity is critical for installing ARCore when it is not already present. -->
+92-->[com.google.ar:core:1.45.0] C:\Users\Zyrex\.gradle\caches\transforms-4\f50313d6f1106d532e267727dc362f14\transformed\core-1.45.0\AndroidManifest.xml:34:13-38
+93        <activity
+93-->[com.google.ar:core:1.45.0] C:\Users\Zyrex\.gradle\caches\transforms-4\f50313d6f1106d532e267727dc362f14\transformed\core-1.45.0\AndroidManifest.xml:36:9-42:80
+94            android:name="com.google.ar.core.InstallActivity"
+94-->[com.google.ar:core:1.45.0] C:\Users\Zyrex\.gradle\caches\transforms-4\f50313d6f1106d532e267727dc362f14\transformed\core-1.45.0\AndroidManifest.xml:37:13-62
+95            android:configChanges="keyboardHidden|orientation|screenSize"
+95-->[com.google.ar:core:1.45.0] C:\Users\Zyrex\.gradle\caches\transforms-4\f50313d6f1106d532e267727dc362f14\transformed\core-1.45.0\AndroidManifest.xml:38:13-74
+96            android:excludeFromRecents="true"
+96-->[com.google.ar:core:1.45.0] C:\Users\Zyrex\.gradle\caches\transforms-4\f50313d6f1106d532e267727dc362f14\transformed\core-1.45.0\AndroidManifest.xml:39:13-46
+97            android:exported="false"
+97-->[com.google.ar:core:1.45.0] C:\Users\Zyrex\.gradle\caches\transforms-4\f50313d6f1106d532e267727dc362f14\transformed\core-1.45.0\AndroidManifest.xml:40:13-37
+98            android:launchMode="singleTop"
+98-->[com.google.ar:core:1.45.0] C:\Users\Zyrex\.gradle\caches\transforms-4\f50313d6f1106d532e267727dc362f14\transformed\core-1.45.0\AndroidManifest.xml:41:13-43
+99            android:theme="@android:style/Theme.Material.Light.Dialog.Alert" />
+99-->[com.google.ar:core:1.45.0] C:\Users\Zyrex\.gradle\caches\transforms-4\f50313d6f1106d532e267727dc362f14\transformed\core-1.45.0\AndroidManifest.xml:42:13-77
+100
+101        <receiver
+101-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Zyrex\.gradle\caches\transforms-4\9f2f192deecd804d602b55e6c902c122\transformed\profileinstaller-1.3.1\AndroidManifest.xml:34:9-52:20
+102            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+102-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Zyrex\.gradle\caches\transforms-4\9f2f192deecd804d602b55e6c902c122\transformed\profileinstaller-1.3.1\AndroidManifest.xml:35:13-76
+103            android:directBootAware="false"
+103-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Zyrex\.gradle\caches\transforms-4\9f2f192deecd804d602b55e6c902c122\transformed\profileinstaller-1.3.1\AndroidManifest.xml:36:13-44
+104            android:enabled="true"
+104-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Zyrex\.gradle\caches\transforms-4\9f2f192deecd804d602b55e6c902c122\transformed\profileinstaller-1.3.1\AndroidManifest.xml:37:13-35
+105            android:exported="true"
+105-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Zyrex\.gradle\caches\transforms-4\9f2f192deecd804d602b55e6c902c122\transformed\profileinstaller-1.3.1\AndroidManifest.xml:38:13-36
+106            android:permission="android.permission.DUMP" >
+106-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Zyrex\.gradle\caches\transforms-4\9f2f192deecd804d602b55e6c902c122\transformed\profileinstaller-1.3.1\AndroidManifest.xml:39:13-57
+107            <intent-filter>
+107-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Zyrex\.gradle\caches\transforms-4\9f2f192deecd804d602b55e6c902c122\transformed\profileinstaller-1.3.1\AndroidManifest.xml:40:13-42:29
+108                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+108-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Zyrex\.gradle\caches\transforms-4\9f2f192deecd804d602b55e6c902c122\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:17-91
+108-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Zyrex\.gradle\caches\transforms-4\9f2f192deecd804d602b55e6c902c122\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:25-88
+109            </intent-filter>
+110            <intent-filter>
+110-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Zyrex\.gradle\caches\transforms-4\9f2f192deecd804d602b55e6c902c122\transformed\profileinstaller-1.3.1\AndroidManifest.xml:43:13-45:29
+111                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+111-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Zyrex\.gradle\caches\transforms-4\9f2f192deecd804d602b55e6c902c122\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:17-85
+111-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Zyrex\.gradle\caches\transforms-4\9f2f192deecd804d602b55e6c902c122\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:25-82
+112            </intent-filter>
+113            <intent-filter>
+113-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Zyrex\.gradle\caches\transforms-4\9f2f192deecd804d602b55e6c902c122\transformed\profileinstaller-1.3.1\AndroidManifest.xml:46:13-48:29
+114                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+114-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Zyrex\.gradle\caches\transforms-4\9f2f192deecd804d602b55e6c902c122\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:17-88
+114-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Zyrex\.gradle\caches\transforms-4\9f2f192deecd804d602b55e6c902c122\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:25-85
+115            </intent-filter>
+116            <intent-filter>
+116-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Zyrex\.gradle\caches\transforms-4\9f2f192deecd804d602b55e6c902c122\transformed\profileinstaller-1.3.1\AndroidManifest.xml:49:13-51:29
+117                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+117-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Zyrex\.gradle\caches\transforms-4\9f2f192deecd804d602b55e6c902c122\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:17-95
+117-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Zyrex\.gradle\caches\transforms-4\9f2f192deecd804d602b55e6c902c122\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:25-92
+118            </intent-filter>
+119        </receiver>
+120    </application>
+121
+122</manifest>

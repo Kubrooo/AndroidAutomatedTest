@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "com.example.androidautomatedtesting.app-release-34:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.androidautomatedtesting.app-main-35:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.androidautomatedtesting.app-release-34:/layout_activity_about.xml.flat",
+        "source": "com.example.androidautomatedtesting.app-main-35:/layout/activity_about.xml"
+    },
+    {
+        "merged": "com.example.androidautomatedtesting.app-release-34:/xml_backup_rules.xml.flat",
+        "source": "com.example.androidautomatedtesting.app-main-35:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.androidautomatedtesting.app-release-34:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.androidautomatedtesting.app-main-35:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.androidautomatedtesting.app-release-34:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.androidautomatedtesting.app-main-35:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.androidautomatedtesting.app-release-34:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.androidautomatedtesting.app-main-35:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.androidautomatedtesting.app-release-34:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.androidautomatedtesting.app-main-35:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.androidautomatedtesting.app-release-34:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.androidautomatedtesting.app-main-35:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.androidautomatedtesting.app-release-34:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.androidautomatedtesting.app-main-35:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.androidautomatedtesting.app-release-34:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.androidautomatedtesting.app-main-35:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.androidautomatedtesting.app-release-34:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.androidautomatedtesting.app-main-35:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.androidautomatedtesting.app-release-34:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.androidautomatedtesting.app-main-35:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.androidautomatedtesting.app-release-34:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.androidautomatedtesting.app-main-35:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.androidautomatedtesting.app-release-34:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.androidautomatedtesting.app-main-35:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.androidautomatedtesting.app-release-34:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.androidautomatedtesting.app-main-35:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.androidautomatedtesting.app-release-34:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.androidautomatedtesting.app-main-35:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.androidautomatedtesting.app-release-34:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.androidautomatedtesting.app-main-35:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.androidautomatedtesting.app-release-34:/layout_activity_counter.xml.flat",
+        "source": "com.example.androidautomatedtesting.app-main-35:/layout/activity_counter.xml"
+    }
+]

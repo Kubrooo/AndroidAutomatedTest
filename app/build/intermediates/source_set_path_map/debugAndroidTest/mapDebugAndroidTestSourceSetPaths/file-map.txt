@@ -1,0 +1,7 @@
+com.example.androidautomatedtesting.test.app-tracing-1.1.0-0 C:\Users\Zyrex\.gradle\caches\transforms-4\62eaf52a3592e37100dce18a1e651d6c\transformed\tracing-1.1.0\res
+com.example.androidautomatedtesting.test.app-core-1.6.1-1 C:\Users\Zyrex\.gradle\caches\transforms-4\8f343d43ab8c3ccd1aadd374f6dc82fb\transformed\core-1.6.1\res
+com.example.androidautomatedtesting.test.app-annotation-experimental-1.4.0-2 C:\Users\Zyrex\.gradle\caches\transforms-4\ceed72006b843997e2a36cf65a90b28b\transformed\annotation-experimental-1.4.0\res
+com.example.androidautomatedtesting.test.app-androidTest-3 C:\Users\Zyrex\AndroidStudioProjects\AndroidAutomatedTesting\app\build\generated\res\resValues\androidTest\debug
+com.example.androidautomatedtesting.test.app-mergeDebugAndroidTestResources-4 C:\Users\Zyrex\AndroidStudioProjects\AndroidAutomatedTesting\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.androidautomatedtesting.test.app-mergeDebugAndroidTestResources-5 C:\Users\Zyrex\AndroidStudioProjects\AndroidAutomatedTesting\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.androidautomatedtesting.test.app-debugAndroidTest-6 C:\Users\Zyrex\AndroidStudioProjects\AndroidAutomatedTesting\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

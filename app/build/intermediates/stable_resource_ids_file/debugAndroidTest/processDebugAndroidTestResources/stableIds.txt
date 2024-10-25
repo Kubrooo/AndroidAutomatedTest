@@ -1,0 +1,2 @@
+com.example.androidautomatedtesting.test:style/WhiteBackgroundTheme = 0x7f010001
+com.example.androidautomatedtesting.test:style/WhiteBackgroundDialogTheme = 0x7f010000

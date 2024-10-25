@@ -33,6 +33,13 @@ android {
     kotlinOptions {
         jvmTarget = "1.8"
     }
+
+    tasks.withType<Test> {
+        reports {
+            html.required.set(true)
+            junitXml.required.set(true)
+        }
+    }
 }
 
 dependencies {
